@@ -1,2 +1,2 @@
-# vox
+# voxchainz
 voxchainz.io
